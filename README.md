@@ -34,5 +34,5 @@ Asegúrate de tener instaladas las siguientes herramientas antes de ejecutar el 
 6. **tkinter**
    - Normalmente viene preinstalado con Python en la mayoría de las distribuciones.
 
-##Instalacion
+# Instalacion
   -Una vez instaladas las dependencias necesarias puedes correr el proyecto con `python <nombre del archivo>` o si no quieres correr el proyecto puedes abrir el .exe dentro del dist, solo tienes que especificar tu ruta
