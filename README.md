@@ -35,4 +35,6 @@ Asegúrate de tener instaladas las siguientes herramientas antes de ejecutar el 
    - Normalmente viene preinstalado con Python en la mayoría de las distribuciones.
 
 # Instalacion
-  - Una vez instaladas las dependencias necesarias puedes correr el proyecto con `python <nombre del archivo>` o si no quieres correr el proyecto puedes abrir el .exe dentro del dist, solo tienes que especificar tu ruta
+  - Una vez instaladas las dependencias necesarias puedes correr el proyecto con ```bash
+     python <nombre del archivo>
+     ``` `` o si no quieres correr el proyecto puedes abrir el .exe dentro del dist, solo tienes que especificar tu ruta
